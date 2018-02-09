@@ -4,6 +4,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist;
 }
 function removeFromPlaylist(playlist, artistName) {
-  delete playlist["Phil Oches"];
+  delete Kanye["Gold Digger"];
   return playlist;
 }
